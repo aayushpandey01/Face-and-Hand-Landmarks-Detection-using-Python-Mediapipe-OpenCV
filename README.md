@@ -2,6 +2,7 @@
 In this project, I use mediapipe python library to detect face and hand landmarks. I use a Holistic model from mediapipe solutions to detect all the face and hand landmarks. We will be also seeing how we can access different landmarks of the face and hands which can be used for different computer vision applications such as sign language detection, drowsiness detection, etc.
 
 Mediapipe- is a cross-platform library developed by Google that provides amazing ready-to-use ML solutions for computer vision tasks.
+
 OpenCV library in python is a computer vision library that is widely used for image analysis, image processing, detection, recognition, etc.
 
 STEP-1: Import all the necessary libraries, In our case only two libraries are required.
