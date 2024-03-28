@@ -5,6 +5,7 @@ Mediapipe- is a cross-platform library developed by Google that provides amazing
 OpenCV library in python is a computer vision library that is widely used for image analysis, image processing, detection, recognition, etc.
 
 STEP-1: Import all the necessary libraries, In our case only two libraries are required.
+
 STEP-2: Initializing Holistic model and Drawing utils for detecting and drawing landmarks on the image.
 Let us look into the parameters for the Holistic Model:
 
