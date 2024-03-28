@@ -1,0 +1,2 @@
+# Face-and-Hand-Landmarks-Detection-using-Python-Mediapipe-OpenCV
+In this project, we will use mediapipe python library to detect face and hand landmarks. We will be using a Holistic model from mediapipe solutions to detect all the face and hand landmarks. We will be also seeing how we can access different landmarks of the face and hands which can be used for different computer vision applications.
